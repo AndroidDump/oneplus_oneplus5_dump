@@ -1,0 +1,11 @@
+[
+  {"projectname":"OnePlusFont_Default",
+    "ConfigVersionCode": 1,
+    "ConfigVersionDesc": "20200529",
+    "content":[
+        {"fontid":"1","fontfile": "NA","desc":"Compat With Dynamic Font V1. Set Null. Will Use AOSP Font"},
+        {"fontid":"2","fontfile": "MYingHeiPRC_W4.ttf","desc":"Compat With Dynamic Font V1"},
+        {"fontid":"100","fontfile": "DFYUAN5A.TTF", "desc":"HuaKangYuanTi Added @ 2020-05"},
+        {"fontid":"101","fontfile": "TsangerJinKai02-W03.ttf", "desc":"CangErJinKai Added @ 2020-05"}
+    ]}
+]
